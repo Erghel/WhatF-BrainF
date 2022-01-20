@@ -7,4 +7,4 @@
 >++[<<<.>>>.<<<.>>>.]
 
 
-# Make limitless loop whiсh spam I after word "BRAIN!"
+# Make limitless loop whiсh spam "I" after word "BRAIN!"
