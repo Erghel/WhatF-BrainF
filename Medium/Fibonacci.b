@@ -21,5 +21,3 @@
   >>[>>+<<-]>[>+<<+>-]>[<+>-]<<<-
 ]
 <<++...
-
-# Copy Paste Fibonacci Function
